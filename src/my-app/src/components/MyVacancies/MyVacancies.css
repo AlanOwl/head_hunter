@@ -1,0 +1,23 @@
+.my-div{
+	display: flex;
+	justify-content: space-between;
+align-items: center;
+}
+
+.eng{
+	margin-left: auto;
+	border: 2px solid rgb(105, 138, 188);;
+	padding: 5px;
+	max-width: 120px;
+	width: 100%;
+	margin-bottom: 35px;
+}
+
+.grade{
+	border: 2px solid rgb(105, 138, 188);;
+	padding: 5px;
+	margin-left: 10px;
+	max-width: 100px;
+	width: 100%;
+	margin-bottom: 35px;
+}

@@ -1,0 +1,15 @@
+.vacancies-wrapper{
+	display: flex;
+	
+}
+
+.vacancies-container {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	border: 3px solid rgb(105, 138, 188);
+	padding: 40px 30px 20px 30px;
+	width: 100%;
+	
+	
+}
